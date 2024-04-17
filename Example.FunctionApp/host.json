@@ -1,0 +1,21 @@
+{
+  "version": "2.0",
+  "logging": {
+    "logLevel": {
+      "default": "Warning",
+      "Function": "Error",
+      "Host.Results": "Error",
+      "Host.Executor": "Error",
+      "Function.StoreFunction": "Error",
+      "Host.Aggregator": "Information",
+      "Host.Bindings": "Error",
+      "Microsoft.EntityFrameworkCore.Database.Command": "Error",
+      "Microsoft.EntityFrameworkCore.Infrastructure": "Error",
+      "Microsoft.Azure.WebJobs.Hosting.OptionsLoggingService": "Error",
+      "Microsoft.AspNetCore.Mvc.StatusCodeResult": "Error",
+      "Azure.Messaging.ServiceBus": "Warning",
+      "Azure.Core": "Warning"
+    }
+  },
+  "functionTimeout": "00:02:00"
+}

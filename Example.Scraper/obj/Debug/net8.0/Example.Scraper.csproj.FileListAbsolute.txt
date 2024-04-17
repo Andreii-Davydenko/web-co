@@ -1,0 +1,48 @@
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\bin\Debug\net8.0\Example.Scraper.deps.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\bin\Debug\net8.0\Example.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\bin\Debug\net8.0\Example.Scraper.pdb
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\Example.Scraper.csproj.AssemblyReference.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\Example.Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\Example.Scraper.AssemblyInfoInputs.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\Example.Scraper.AssemblyInfo.cs
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\Example.Scraper.csproj.CoreCompileInputs.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\Example.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\refint\Example.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\Example.Scraper.pdb
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\RozeBever.Scraper\obj\Debug\net8.0\ref\Example.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\bin\Debug\net8.0\Example.Scraper.deps.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\bin\Debug\net8.0\Example.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\bin\Debug\net8.0\Example.Scraper.pdb
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\Example.Scraper.csproj.AssemblyReference.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\Example.Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\Example.Scraper.AssemblyInfoInputs.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\Example.Scraper.AssemblyInfo.cs
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\Example.Scraper.csproj.CoreCompileInputs.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\Example.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\refint\Example.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\Example.Scraper.pdb
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Scraper\obj\Debug\net8.0\ref\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\refint\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\Example.Scraper.pdb
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\bin\Debug\net8.0\Example.Scraper.deps.json
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\bin\Debug\net8.0\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\bin\Debug\net8.0\Example.Scraper.pdb
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\Example.Scraper.csproj.AssemblyReference.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\Example.Scraper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\Example.Scraper.AssemblyInfoInputs.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\Example.Scraper.AssemblyInfo.cs
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\Example.Scraper.csproj.CoreCompileInputs.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Scraper\obj\Debug\net8.0\ref\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\bin\Debug\net8.0\Example.Scraper.deps.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\bin\Debug\net8.0\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\bin\Debug\net8.0\Example.Scraper.pdb
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\Example.Scraper.csproj.AssemblyReference.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\Example.Scraper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\Example.Scraper.AssemblyInfoInputs.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\Example.Scraper.AssemblyInfo.cs
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\Example.Scraper.csproj.CoreCompileInputs.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\refint\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\Example.Scraper.pdb
+F:\Scrape_IT\Startup 1\WebCo\Example.Scraper\obj\Debug\net8.0\ref\Example.Scraper.dll

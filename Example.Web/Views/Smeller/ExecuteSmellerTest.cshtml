@@ -1,0 +1,30 @@
+﻿@model ScrapeIT.Web.Mvc.Models.ExecuteSmellerModel
+
+@{
+    ViewBag.Title = "ExecuteSmellerTest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="jumbotron">
+    <h1>Page is</h1>
+    <p class="lead">
+        @if (Model.IsSmelly)
+         {
+        <b>Smelly!!</b>
+        }
+        else
+        {
+            <b>Not smelly</b>
+        }
+    </p>
+    <p></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+       
+        @Html.ActionLink("Execute tabular", "ExecuteTablearTest", "Tabelar", new { address = Model.Address }, null)
+    </div>
+</div>

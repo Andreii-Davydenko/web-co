@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "MapTest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>MapTest</h2>
+
+
+<section>
+    @using (Html.BeginForm("ExecuteMapTest", "Mappings", FormMethod.Get))
+    {
+        <p>Voer een map inclusief tablear uit.</p>
+        @Html.TextBox("address", "", new { placeholder = "Scrape url" })
+        <input type="submit" value="Generate map" />
+    }
+</section>

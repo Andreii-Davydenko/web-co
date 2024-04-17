@@ -1,0 +1,60 @@
+﻿@model ScrapeIT.Web.Mvc.Models.Graph.GraphNodeModel
+
+@{
+    ViewBag.Title = "CheckUrl";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CheckUrl</h2>
+
+<section>
+    <h2>Scrape</h2>
+    <table>
+        <tr>
+            <th>Url</th>
+            <td>
+                @Model.Url
+                @Html.ActionLink("<Run tabelar>", "ExecuteTabelarTest", "Tabelar", new { address = Model.Url, previous=Model.PreviousUrl }, null)
+            </td>
+        </tr>
+        <tr>
+            <th>Previous Url</th>
+            <td>
+                @if (Model.PreviousUrl != null)
+                {
+                    @Html.ActionLink(Model.PreviousUrl, "CheckUrl", "Graph", new { address = Model.PreviousUrl }, null)
+                    @Html.ActionLink("<Run tabelar>", "ExecuteTabelarTest", "Tabelar", new { address = Model.PreviousUrl }, null)
+                }
+            </td>
+        </tr>
+        <tr>
+            <th>ScrapeDate</th>
+            <td>@Model.Scrape.ScrapeDate</td>
+        </tr>
+        <tr>
+            <th>Status</th>
+            <td>@Model.Scrape.StatusCode</td>
+        </tr>
+        <tr>
+            <th>Media type</th>
+            <td>@Model.Scrape.MediaType</td>
+        </tr>
+        <tr>
+            <th>Expiration date</th>
+            <td>@Model.Scrape.ExpirationDate</td>
+        </tr>
+
+    </table>
+</section>
+
+<section>
+    <h2>Children</h2>
+
+    <ul style="list-style-type:square !important; margin-left: 15px;">
+        @foreach (var child in Model.ChildPages)
+        {
+            <li>@Html.ActionLink(child.Url, "CheckUrl", "Graph", new { address = child.Url }, null)</li>
+            @*&nbsp;@Html.ActionLink("<Run tabelar>", "ExecuteTablearTest", "Scraper", new { address = urlFromModel.ToString() }, null)*@
+        }
+    </ul>
+</section>

@@ -1,0 +1,66 @@
+﻿@model ScrapeIT.Web.Mvc.Models.MappingElementModel
+
+@{
+    ViewBag.Title = "Edit mapping element";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>EditMappingElement</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m=>m.ReturnPath)    
+    
+<div class="form-horizontal">
+    <h4>Mapping element model</h4>
+    <hr />
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.ID)
+
+                @Html.LabelFor(m => m.Path)
+                @Html.DisplayFor(m => m.Path)
+    
+    <table>
+        <tr>
+            <th>
+                @Html.LabelFor(m => Model.DbNameModel[0].DbTableName)
+            </th>
+            <th>
+                @Html.LabelFor(m => Model.DbNameModel[0].DbName)
+            </th>
+        </tr>
+        @for(int i=0; i<Model.DbNameModel.Count;i++)
+{
+        <tr>
+            <td>
+                @Html.DropDownListFor(m => Model.DbNameModel[i].DbTableName, Model.DbNameModel[i].DbTableNames)
+            </td>
+            <td>
+                @Html.DropDownListFor(m => Model.DbNameModel[i].DbName, Model.DbNameModel[i].DbNames)
+            </td>        
+        </tr>
+}
+    </table>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<br />
+@using(Html.BeginForm("CleanAllsMappings", "Mappings"))
+{    
+    @Html.HiddenFor(model => model.ID)    
+    @Html.HiddenFor(model => model.Path)
+
+    <input type="submit" value="Clean all mappings" class="btn btn-default" style="background-color:red" />
+}
+<br/>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

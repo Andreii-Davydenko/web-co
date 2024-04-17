@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "SaveMapTest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SaveMapTest</h2>
+
+<section>
+    @using (Html.BeginForm("SaveMapTest", "Mappings"))
+    {
+        <p>Voer een save uit op een event.</p>
+        @Html.TextBox("address", "", new { placeholder = "Scrape url" })
+        <br/>
+        <div>
+            <label for="date">Date</label>
+            <input type="date" name="date" />
+        </div>
+        <input type="submit" value="Save" />
+    }
+</section>

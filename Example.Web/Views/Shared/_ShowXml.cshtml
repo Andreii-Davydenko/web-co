@@ -1,0 +1,29 @@
+﻿@using System.Xml
+@using ScrapeIT.Web.Mvc.Models
+@using ScrapeIT.Framework.Core.Extensions
+@model ScrapeIT.Web.Mvc.Models.NodeListModel
+
+@foreach(XmlNode xmlNode in Model.XmlNodesToMatch())
+{
+    <div class="xml-block">
+        <div class="xml-block-content @(!xmlNode.ChildIsText() ? "with-child" : "no-child")" data-full-path="@Model.GetCurrentPath(xmlNode.Name)">
+            @if (!xmlNode.ChildIsText())
+            {
+                <div class="xml-block-icon glyphicon glyphicon-minus"></div>
+            }
+            <div class="xml-block-name">@xmlNode.Name</div>
+            @if (xmlNode.ChildIsText())
+            {
+                <div class="xml-block-value">
+                    <text>@(xmlNode.ChildNodes.Count == 0 ? "" : xmlNode.ChildNodes[0].Value)</text>
+                </div>
+            }
+        </div>
+        @if (!xmlNode.ChildIsText())
+        {
+            <div class="xml-block-childs">
+                @await Html.PartialAsync("_ShowXml", new NodeListModel(Model.GetCurrentPath(xmlNode.Name), xmlNode.ChildNodes))
+            </div>
+        }
+    </div>
+}

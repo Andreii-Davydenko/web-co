@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Extractor tests</h1>
+
+<li>@Html.ActionLink("UrlExtractor test", "UrlExtractorTest", "Extractor")</li>
+<li>@Html.ActionLink("ReExtractor", "UrlExtractorTest", "Extractor")</li>
+
+
+
+<section>
+    @using (Html.BeginForm("ReExtract", "Extractor"))
+    {
+    <p>Do a reextract for this url and its children</p>
+    @Html.TextBox("address", "", new { placeholder = "reextract url" })
+    <input type="submit" value="Check" />
+    }
+</section>

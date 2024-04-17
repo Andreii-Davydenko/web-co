@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Handmatig mappen";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    Geselecteerde klant: <span id="CustomerPrefix"></span>
+</p>
+
+@if (ViewBag.AmountItems == 0)
+{
+    <h2><b>GEFELICITEERD!</b> Geen mappings aanwezig</h2>
+
+    <span>Er zijn geen mappings aanwezig om handmatig te mappen.</span>
+}
+else
+{
+    <h2>Peeken is niet mogelijk</h2>
+
+    <span>
+        Het is helaas niet mogelijk om te peeken. 
+        <br />Toch zijn er @ViewBag.AmountItems items in de mapping queue aanwezig.
+    </span>
+}
+
+@section scripts
+{
+    <script type="text/javascript">
+        $("#CustomerPrefix").html(getCurrentCustomer());
+    </script>
+}

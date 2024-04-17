@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Example.Web
+build_property.RootNamespace = Example.Web
+build_property.ProjectDir = F:\Scrape_IT\Startup 1\WebCo\Example.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Scrape_IT\Startup 1\WebCo\Example.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Alert/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Blob/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvYlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Convert/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Extractor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFjdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Extractor/UrlExtractorTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFjdG9yXFVybEV4dHJhY3RvclRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Graph/CheckUrl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhcQ2hlY2tVcmwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Graph/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Input/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5wdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/EditMappingElement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcRWRpdE1hcHBpbmdFbGVtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/ExecuteMapTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcRXhlY3V0ZU1hcFRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/ItemsLimitReached.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcSXRlbXNMaW1pdFJlYWNoZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/MapManual.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcTWFwTWFudWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/MapManualAgain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcTWFwTWFudWFsQWdhaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/MapManualCouldBeMapped.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcTWFwTWFudWFsQ291bGRCZU1hcHBlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/MapTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcTWFwVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/SaveMapTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcU2F2ZU1hcFRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/ViewMappings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcVmlld01hcHBpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/ViewMappingsPerDomain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcVmlld01hcHBpbmdzUGVyRG9tYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/ZeroManualMappings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcWmVyb01hbnVhbE1hcHBpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Mappings/_PocoObjectView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwcGluZ3NcX1BvY29PYmplY3RWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Path/ExecuteScrapePathTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aFxFeGVjdXRlU2NyYXBlUGF0aFRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Path/ScrapePathTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aFxTY3JhcGVQYXRoVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Shared/_AlertPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbGVydFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Shared/_DataLookupPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXRhTG9va3VwUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Shared/_ShowXml.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaG93WG1sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Smeller/ExecuteSmellerTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU21lbGxlclxFeGVjdXRlU21lbGxlclRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Smeller/SmellerTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU21lbGxlclxTbWVsbGVyVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Tabelar/ExecuteTabelarTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFiZWxhclxFeGVjdXRlVGFiZWxhclRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/Tabelar/TabelarTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFiZWxhclxUYWJlbGFyVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Scrape_IT/Startup 1/WebCo/Example.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,39 @@
+﻿@model List<ScrapeIT.Framework.Scraper.UrlExtractor.ExtractorRequest>  
+@{
+    ViewBag.Title = "URL-extractortest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>URL-extractortest</h1>
+
+<section>
+    @using (Html.BeginForm("ExecuteUrlExtractorTest", "Extractor"))
+    {
+        <p>Voer een URL-extractietest uit. @*Voer hier de URL in:*@</p>
+        @Html.TextBox("address", "", new { placeholder = "www.naamvanwebsite.extensie", style = "width:600px" })
+        <br/>
+        @Html.TextBox("correlationID", "", new { placeholder = "Correlatie id (optioneel)" })
+        <input type="submit" value="Extract" />
+    }
+</section>
+
+<section class="output-extractortest">
+    <br />
+    <h2>Output</h2>
+    <ul style="list-style-type:square !important; margin-left: 15px;">
+        @foreach (var extractFromModel in Model)
+        {
+            <li>
+                @Html.ActionLink(extractFromModel.ToString(), "ExecuteUrlExtractorTest", "Extractor", new { address= extractFromModel.Uri.ToString()}, null)&nbsp;@Html.ActionLink("<Run tabelar>" , "ExecuteTabelarTest", "Tabelar", new { address = extractFromModel.Uri.ToString() }, null)
+                @if(extractFromModel.RequestType == ScrapeIT.Framework.Messaging.Messages.WebMethod.Post)
+                {
+                    <div>
+                        <span>(post)</span>
+                        <span>@extractFromModel.Body</span>
+                    </div>
+                }
+
+            </li>            
+        }
+    </ul>
+</section>

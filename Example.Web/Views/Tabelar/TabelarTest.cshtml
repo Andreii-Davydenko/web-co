@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "TabelarTest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>TablearTest</h2>
+
+<section>
+    @using (Html.BeginForm("ExecuteTabelarTest", "Tabelar", FormMethod.Post))
+    {
+        <p>Voer een tablear uit.</p>
+        @Html.TextBox("address", "", new { placeholder = "Scrape url" })<br/>
+		@Html.TextBox("previous", "", new { placeholder = "Previous url" })<br />
+        @Html.TextBox("correlationId","",new { placeholder = "CorrelationID" })<br/>
+        @Html.TextBox("date", "", new { type="datetime-local" })
+        <input type="submit" value="Generate tablear" />
+    }
+</section>

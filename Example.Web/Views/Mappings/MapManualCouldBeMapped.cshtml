@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Handmatig mappen";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Er staan nog @ViewBag.AmountItems in de queue om te mappen</h2>
+<p>
+    Geselecteerde klant: <span id="CustomerPrefix"></span>
+</p>
+
+@Html.ActionLink("Verwerk nog een item uit de queue", "MapManual", "Mappings")
+
+@section scripts
+{
+    <script type="text/javascript">
+        $("#CustomerPrefix").html(getCurrentCustomer());
+    </script>
+}

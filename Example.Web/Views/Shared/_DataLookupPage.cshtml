@@ -1,0 +1,56 @@
+﻿@model ScrapeIT.Web.Mvc.Models.DataLookupModel
+
+
+<h1>Lookup values</h1>
+
+@if (Model.Levels.Length > 1)
+{
+    @for (int i = 0; i < Model.Levels.Length-1; i++)
+    {
+<div class="btn-group">
+    <button type="button" data-bind="text:level@(i)selected" class="btn btn-primary dropdown-toggle" id="level@(i)Button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        @Model.Levels[i]
+    </button>
+    <div class="dropdown-menu" aria-labelledby="level@(i)Button" data-bind="foreach:level@(i)lookups">
+        <a class="dropdown-item" href="#" data-bind="text:name, click:$root.clickAction@(i)">Action</a>    
+    </div>
+</div>
+
+    }
+}
+
+<h3>Lookups</h3>
+
+<div data-bind="foreach:lookups" class="container">
+    <div class="row">
+        <div class="col-sm" data-bind="text:name"></div>
+        <div class="col-sm">
+            <span data-bind="visible:redirect">=></span>        
+        </div>
+        <div class="col-sm" data-bind="text:redirect"></div>
+        <div class="col-sm">
+            <button type="button" class="btn btn-secondary" data-bind="click:$root.deleteLookup">Delete</button>
+        </div>
+    </div>
+</div>
+
+<h3>Actions</h3>
+<form>
+    <div class="form-group">
+        <label>New lookup</label>
+        <textarea class="form-control" data-bind="value:newLookups"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Redirect to</label>
+
+        <div class="btn-group">
+            <button type="button" data-bind="text:newRedirect" class="btn btn-primary dropdown-toggle" id="redirectButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                No redirect
+            </button>
+            <div class="dropdown-menu" aria-labelledby="redirectButton" data-bind="foreach:redirectLookups">
+                <a class="dropdown-item" href="#" data-bind="text:name, click:$root.redirectSelected">Action</a>
+            </div>
+        </div>
+    </div>
+    <button type="button" class="btn btn-primary" data-bind="click: addNew">Add</button>
+</form>

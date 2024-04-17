@@ -1,0 +1,19 @@
+﻿<div>
+    <h3>Upload new input file</h3>
+    @using (Html.BeginForm("Index", "Input", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="excel" id="excel" accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" />
+        <input type="submit" value="Input" />
+    }
+</div>
+
+
+<div>
+    <h3>Upload Images</h3>
+    @using (Html.BeginForm("UploadImages", "Input", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="excel" id="images-excel" accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" />
+        <input type="submit" value="Input" />
+    }
+</div>
+

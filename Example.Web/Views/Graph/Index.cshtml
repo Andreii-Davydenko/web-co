@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Start with graph url</h2>
+
+
+<section>
+    @using (Html.BeginForm("CheckUrl", "Graph"))
+    {
+        <p>Check this url for scrape information.</p>
+        <label>Before: <input type="date" name="beforeDate" /></label>
+        @Html.TextBox("address", "", new { placeholder = "Scrape url" })
+        <input type="submit" value="Check" />
+    }
+</section>
+
+<section>
+    @using (Html.BeginForm("CleanUrl", "Graph"))
+    {
+        <p>Clean scrapes including child pages.</p>
+        @Html.TextBox("address", "", new { placeholder = "Scrape url" })
+        <input type="submit" value="Clean" />
+    }
+</section>
+
+<section>
+    @using (Html.BeginForm("CleanSingleUrl", "Graph"))
+    {
+        <p>Clean scrape, not child pages.</p>
+        @Html.TextBox("address", "", new { placeholder = "Scrape url" })
+        <input type="submit" value="Clean" />
+    }
+</section>

@@ -1,0 +1,19 @@
+﻿@model System.Int32
+@{
+    ViewBag.Title = "ItemsLimitReached";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section>
+    <h2>A limit of items (@Model) has been reached with the manual mapper</h2>
+    <p>The item limit has been reached. Better copy the total of manual mappers to the store queue and see what comes back</p>
+    
+
+    @using (Html.BeginForm("CopyManualMappingQueueToStore", "Mappings"))
+    {
+        <button type="submit" style="float:left;display:inline;margin-right:10px">Copy big amount to store</button>
+    }
+
+</section>
+
+

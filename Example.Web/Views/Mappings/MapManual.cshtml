@@ -1,0 +1,138 @@
+﻿@using ScrapeIT.Web.Mvc.Models
+@model ScrapeIT.Web.Mvc.Models.PeekDataModel
+@{
+    ViewBag.Title = "Handmatig mappen";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/Site.css" rel="stylesheet" />
+
+<h1>Handmatig mappen voor de MapAndStore</h1>
+<p>
+    Geselecteerde klant: <span id="CustomerPrefix"></span>
+</p>
+
+<div class="header-container">
+    <div style="border: 1px solid #808080; padding: 10px; margin-right:20px;">
+        <h2>Data</h2>
+        <table style="width:100%">
+            <tr>
+                <td width="100px"><b>Scrape url:</b></td>
+                <td>
+                    <a href="@ScrapeIT.Framework.Messaging.MessageHelper.CleanPostUri(new Uri(Model.Page.Url))" target="_blank" style="word-wrap:break-word;display:block">@ScrapeIT.Framework.Messaging.MessageHelper.CleanPostUri(new Uri(Model.Page.Url))</a>
+                    @Html.ActionLink("(download blob)", "DownloadBlobUrl", "Blob", new { url = Model.Page.Url }, new { target = "_blank" })
+                </td>
+            </tr>
+            <tr style="margin-top:10px;">
+                <td>&nbsp;</td>
+                <td style="padding:5px 0 10px 0">
+                    
+                    @using (Html.BeginForm("CopyManualMappingQueueToStore", "Mappings"))
+                    {
+                        <button type="submit" style="float:left;display:inline;margin-right:10px">Copy big amount to store</button>
+                    }
+
+                    @using (Html.BeginForm("CopyManualMappingQueueToTabluar", "Mappings"))
+                    {
+                        <button type="submit" style="float:left;display:inline;margin-right:10px">Copy big amount to Tabelar</button>
+                    }
+                </td>
+            </tr>           
+        </table>
+    </div>
+
+    <div>Er moet(en) nog <span id="AmountToMap"></span> item(s) gemapped worden.</div>
+
+    <div id="SelectRepeatingElement" class="button">1) Selecteer element met waardes (linkerkolom)</div>
+    <span id="SelectedRepeatingElementContainer" style="@(Model.RepeatPaths == null || Model.RepeatPaths.Length==0?"display:none":"");">
+        Geselecteerd: <span id="SelectedRepeatingElement">@string.Join(", ", Model.RepeatPaths)</span> <span id="RemoveSelectedRepeatingElement" class="glyphicon glyphicon-remove-circle"></span>
+    </span>
+    <div style="margin-top:10px;">
+        Het kan voorkomen dat in één json file meerdere rijen met data zitten. Selecteer een root waarin de repeterende data zit.
+    </div>
+    <div>
+        Multi select <input type="checkbox" id="multiselect" />
+    </div>
+    <div>Save 100% maps automatic <input type="checkbox" id="automap" /></div>
+
+    <div id="SubmitMapping" class="button call-to-action" style="display:none;min-width: 130px;">Sla mapping op</div>
+
+    <img id="loader" src="@Url.Content("~/Content/Images/Squirrel-loader.gif")" width="65" style="display:none;" />
+    <div id="result">
+
+    </div>
+</div>
+
+<div class="content-container">
+    <div style="width:50%; float:left;" class="manual-mapping-arrow">
+        @if (Model.ContentXml.FirstChild.HasChildNodes)
+        {
+            @await Html.PartialAsync("_ShowXml", new NodeListModel("", Model.ContentXml.FirstChild.ChildNodes))
+        }
+    </div>
+    <div style="width:50%; float:left;">
+        @*id="affix-nav"*@
+        <div data-offset-top="420" style="overflow-x:auto;width:600px">
+            @*data-spy="affix"*@
+            <span id="ignoreButton" class="button multiple-button">Ignore</span>
+            <br />
+            <h3 style="padding:15px 0 5px 0">Database fields:</h3>
+            <ul id="ulColumn">
+                @if (Model.DataFieldsAvailable)
+                {
+                    foreach (var dataFieldGroup in Model.DataFields.GroupBy(d => d.DbTableName.Split(',')[0].Split('.').Last()))
+                    {
+                        <li>
+                            <h2>@dataFieldGroup.Key</h2>
+                        </li>
+
+                        foreach (var dataField in dataFieldGroup.OrderBy(d => d.DisplayName))
+                        {
+                            <li style="margin-bottom:3px;">
+                                <span class="button db-button" data-db-name="@dataField.DbName" data-db-table-name="@dataField.DbTableName" title="@dataField.DbTableName">
+                                    @dataField.DisplayName
+                                </span>
+                            </li>
+
+                        }
+                    }
+                }
+                else
+                {
+                    @: Geen IDataRepository geregistreerd
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    
+    <script type="text/javascript">
+        var host = '@Model.OriginalUrl.Host';
+        var customerPrefixName = '@Model.CustomerPrefixName';
+        var hashBase64 = '@Model.HashBase64';
+
+        function initializePresetMatches() {
+            _presetRunning = true;
+            @foreach(PeekDataMatchModel match in Model.Matches)
+            {
+                if (match.Ignore) {
+                    @:ignoreFor("@match.FullPath");
+                }
+                else {
+                    for (int i = 0; i < match.DbName.Count; i++)
+                    {
+                        @:clickFor("@Html.Raw(match.FullPath)", "@match.DbTableName[i]", "@match.DbName[i]");
+                    }
+                }
+            }
+
+            calculateChildsToCouple(true);
+            setParentsCompleted();
+            _presetRunning = false;
+        }
+    </script>
+    <script src="~/Scripts/Mappings/Mappings.js"></script>
+}

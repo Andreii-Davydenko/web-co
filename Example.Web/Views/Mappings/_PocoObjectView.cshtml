@@ -1,0 +1,32 @@
+﻿@model IEnumerable<object>
+
+@foreach (var g in Model.GroupBy(d => d.GetType()))
+{
+    <article>
+        <h1>@g.Key.Name</h1>
+        <table>
+            <thead>
+                <tr>
+                    @foreach (var p in g.Key.GetProperties())
+                    {
+                    <th>@p.Name</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in g)
+                {
+                <tr>
+                    @foreach (var p in g.Key.GetProperties())
+                    {
+
+                    <td>@ScrapeIT.Framework.Data.TableStorage.TableValueHelper.GetValue(p.GetValue(obj))</td>
+
+                    }
+                </tr>
+                }
+            </tbody>
+        </table>
+    </article>
+}
+    

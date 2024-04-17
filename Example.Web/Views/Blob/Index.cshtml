@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Download blob</h1>
+
+
+<section>
+    @using (Html.BeginForm("DownloadBlobUrl", "Blob"))
+    {
+        <p>Download.</p>
+        @Html.TextBox("url", "", new { placeholder = "Scrape url" })
+        <input type="submit" value="Check" />
+    }
+</section>

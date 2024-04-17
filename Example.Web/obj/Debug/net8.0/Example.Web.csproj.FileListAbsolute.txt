@@ -1,0 +1,817 @@
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Views\Web.config
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\web.config
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\bundleconfig.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\libman.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\scrapeitsettings.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Example.Web.staticwebassets.runtime.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Example.Web.exe
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Example.Web.deps.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Example.Web.runtimeconfig.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Example.Web.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Example.Web.pdb
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Azure.Data.Tables.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\FParsec.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\FParsecCS.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Core.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\MontfoortIT.Business.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\MontfoortIT.Library.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\MontfoortIT.Office.Excel.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NaturalLanguage.Parsers.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Business.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.CloudUtilities.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Core.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Data.TableStorage.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Export.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Messages.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.FunctionApp.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ScrapeIT.Web.Mvc.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Example.Scraper.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\bin\Debug\net8.0\Example.Scraper.pdb
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.csproj.AssemblyReference.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.AssemblyInfoInputs.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.AssemblyInfo.cs
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.csproj.CoreCompileInputs.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.RazorAssemblyInfo.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.RazorAssemblyInfo.cs
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.Example.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Example.Web.props
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Example.Web.props
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Example.Web.props
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\scopedcss\bundle\Example.Web.styles.css
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.csproj.CopyComplete
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\refint\Example.Web.dll
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.pdb
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\Example.Web.genruntimeconfig.cache
+C:\Users\ScrapeIT\Sit\Main\ScrapeIT.Framework\Customers\Example\Example.Web\obj\Debug\net8.0\ref\Example.Web.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\refint\Example.Web.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.pdb
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\web.config
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\appsettings.Development.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\bundleconfig.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\libman.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\scrapeitsettings.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Views\Web.config
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\appsettings.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Example.Web.staticwebassets.runtime.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Example.Web.exe
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Example.Web.deps.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Example.Web.runtimeconfig.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Example.Web.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Example.Web.pdb
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Azure.Core.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Azure.Core.Amqp.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Azure.Data.Tables.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Azure.Storage.Common.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\FParsec.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\FParsecCS.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\FSharp.Core.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\HtmlAgilityPack.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Humanizer.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Core.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.Build.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\MontfoortIT.Business.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\MontfoortIT.Library.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\MontfoortIT.Office.Excel.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NaturalLanguage.Parsers.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.Common.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Business.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.CloudUtilities.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Core.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Data.TableStorage.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Export.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Messages.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Scraper.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.FunctionApp.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ScrapeIT.Web.Mvc.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.CodeDom.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.IO.Hashing.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.IO.Packaging.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\Startup\Example.Web\bin\Debug\net8.0\Example.Scraper.pdb
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.csproj.AssemblyReference.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.AssemblyInfoInputs.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.AssemblyInfo.cs
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.csproj.CoreCompileInputs.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.MvcApplicationPartsAssemblyInfo.cs
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.RazorAssemblyInfo.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.RazorAssemblyInfo.cs
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\staticwebassets.build.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\staticwebassets.development.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.Example.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Example.Web.props
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Example.Web.props
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Example.Web.props
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\scopedcss\bundle\Example.Web.styles.css
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.csproj.CopyComplete
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\Example.Web.genruntimeconfig.cache
+F:\Scrape_IT\Startup 1\Startup\Example.Web\obj\Debug\net8.0\ref\Example.Web.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Views\Web.config
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\web.config
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\appsettings.Development.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\appsettings.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\bundleconfig.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\libman.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\scrapeitsettings.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Example.Web.staticwebassets.runtime.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Example.Web.exe
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Example.Web.deps.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Example.Web.runtimeconfig.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Example.Web.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Example.Web.pdb
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Azure.Core.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Azure.Core.Amqp.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Azure.Data.Tables.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Azure.Storage.Common.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\FParsec.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\FParsecCS.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\FSharp.Core.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\HtmlAgilityPack.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Humanizer.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Core.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.Build.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\MontfoortIT.Business.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\MontfoortIT.Library.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\MontfoortIT.Office.Excel.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NaturalLanguage.Parsers.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.Common.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Business.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.CloudUtilities.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Core.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Data.TableStorage.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Export.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Messages.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.Framework.Scraper.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.FunctionApp.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ScrapeIT.Web.Mvc.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.CodeDom.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.IO.Hashing.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.IO.Packaging.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Example.Scraper.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\Example.Scraper.pdb
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.csproj.AssemblyReference.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.AssemblyInfoInputs.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.AssemblyInfo.cs
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.csproj.CoreCompileInputs.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.MvcApplicationPartsAssemblyInfo.cs
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.RazorAssemblyInfo.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.RazorAssemblyInfo.cs
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\staticwebassets.build.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\staticwebassets.development.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.Example.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Example.Web.props
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Example.Web.props
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Example.Web.props
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\scopedcss\bundle\Example.Web.styles.css
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.csproj.CopyComplete
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\refint\Example.Web.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.pdb
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\Example.Web.genruntimeconfig.cache
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\obj\Debug\net8.0\ref\Example.Web.dll
+F:\Scrape_IT\Startup 1\WebCo\Example.Web\bin\Debug\net8.0\SixLabors.ImageSharp.dll

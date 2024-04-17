@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Sites.Web</h1>
+    <p class="lead">Home</p>
+    <p></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Test</h2>
+        <p>
+            <ul>
+                <li>@Html.ActionLink("Blob test", "Index", "Blob")</li>
+                <li>@Html.ActionLink("Smeller test", "SmellerTest", "Smeller")</li>
+                <li>@Html.ActionLink("UrlExtractor test", "Index", "Extractor")</li>
+                <li>@Html.ActionLink("Tabelar test", "TabelarTest", "Tabelar")</li>
+                <li>@Html.ActionLink("Mapping test", "MapTest", "Mappings")</li>
+                <li>@Html.ActionLink("Save mapping test", "SaveMapTest", "Mappings")</li>
+                <li>@Html.ActionLink("Graph test", "Index", "Graph")</li>
+                <li>@Html.ActionLink("Path test", "ScrapePathTest", "Path")</li>
+            </ul>
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+        <p>
+            <ul>
+                <li>@Html.ActionLink("Mappings", "MapManual", "Mappings")</li>
+                <li>@Html.ActionLink("View mappings", "ViewMappingsPerDomain", "Mappings")</li>
+                <li>@Html.ActionLink("Export", "Index", "Export")</li>
+                <li>@Html.ActionLink("Convert", "Index", "Convert")</li>
+                <li>@Html.ActionLink("Restore scrape dead queues", "ScrapeQueuesFromDeadQueuesAsync", "Queue")</li>
+            </ul>
+
+        </p>
+        <p></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Customer</h2>
+        <p>
+            <ul>
+                <li>@Html.ActionLink("Page count", "Index", "Check")</li>                
+            </ul>
+        </p>
+        <p></p>
+    </div>
+
+</div>

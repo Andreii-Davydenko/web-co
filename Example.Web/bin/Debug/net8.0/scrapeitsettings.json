@@ -1,0 +1,5 @@
+{
+  "Mappings": {
+    "ConnectionString": "Server=tcp:y2h5zj3ibk.database.windows.net,1433;Database=ScrapeIT;User ID=scrapeit;Password=6+6=13minEen;Trusted_Connection=False;Connect Timeout=60;Encrypt=True"
+  }
+}

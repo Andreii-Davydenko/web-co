@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "ScrapePathTest";
+}
+
+<h2>ScrapePathTest</h2>
+
+
+<section>
+    @using (Html.BeginForm("ExecuteScrapePathTest", "Path", FormMethod.Get))
+    {
+        <p>Voer een scrape path test uit.</p>
+        @Html.TextBox("address", "", new { placeholder = "Scrape url" })<br />
+        @Html.TextBox("body", "", new { })<br />
+        <select>
+            <option value="get">GET</option>
+            <option value="post">POST</option>
+            <option value="put">PUT</option>
+        </select><br />
+        <input type="submit" value="Do scrape" />
+    }
+</section>

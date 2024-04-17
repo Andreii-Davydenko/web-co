@@ -1,0 +1,91 @@
+﻿@model ScrapeIT.Web.Mvc.Models.ScrapePathTestModel
+
+@{
+    ViewBag.Title = "Scrape path result";
+}
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/lib/raphael/raphael.js"></script>
+<script src="~/lib/graphdracula/dracula.dev.js"></script>
+
+<h2>ScrapePath Result</h2>
+
+<section>
+    Scrape path depth => @Model.ScrapePaths.Count()
+</section>
+<section>
+    Scrape date => @Model.ScrapeDate
+</section>
+<section>
+    Scrape path results
+
+    @foreach (var path in Model.ScrapePaths)
+    {
+        <table>
+            <tr>
+                <td>url</td>
+                <td>
+                    @path.Request.Url @Html.ActionLink("(tabelar)", "ExecuteTabelarTest", "Tabelar", new { address = path.Request.Url.OriginalString, previous = path.Request.PreviousNodeUrl?.OriginalString }, null)
+                    @using (Html.BeginForm("DownloadBlob", "Blob", new { url = path.Request.Url.OriginalString }, FormMethod.Post))
+                    {
+                        <button type="submit">Download blob</button>
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td>Type</td>
+                <td>@path.Request.Method</td>
+            </tr>
+            <tr>
+                <td>Urls</td>
+                <td>
+                    <ol>
+                        @foreach (var url in path.ExtractedUrls)
+                        {
+                            <li>
+                                @using (Html.BeginForm("ExecuteScrapePathTest", "Path", FormMethod.Post))
+                                {
+                                    <input type="hidden" name="previousAddress" id="previousAddress" value='@Model.Uri' />
+                                    <input type="hidden" name="address" id="address" value='@url.Uri.OriginalString' />
+                                    <input type="hidden" name="body" id="body" value='@url.Body' />
+                                    <input type="hidden" name="cookies" id="cookies" value='@Model.Cookies' />
+                                    <button type="submit">@url.Uri.OriginalString</button>
+                                }
+                            </li>
+
+                        }
+                    </ol>
+
+                </td>
+            </tr>
+        </table>
+    }
+</section>
+
+<div id="canvas"></div>
+
+<script type="text/javascript">
+    $(function () {
+        var g = new Dracula.Graph();
+
+        @foreach (var path in Model.ScrapePaths)
+        {
+            foreach (var url in path.ExtractedUrls)
+            {
+    @:g.addEdge('start', '@url.Uri.OriginalString');
+            }
+        }
+
+    var layouter = new Dracula.Layout.Spring(g);
+    layouter.layout();
+
+    var renderer = new Dracula.Renderer.Raphael('#canvas', g, 800, 1000);
+    renderer.draw();
+});
+
+</script>
+
+
+
+
+
